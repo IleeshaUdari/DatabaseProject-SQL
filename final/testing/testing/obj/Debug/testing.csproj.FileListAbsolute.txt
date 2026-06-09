@@ -1,0 +1,5 @@
+J:\M.G.I.U.S\final\testing\testing\obj\Debug\testing.csproj.AssemblyReference.cache
+J:\M.G.I.U.S\final\testing\testing\obj\Debug\testing.Form1.resources
+J:\M.G.I.U.S\final\testing\testing\obj\Debug\testing.Properties.Resources.resources
+J:\M.G.I.U.S\final\testing\testing\obj\Debug\testing.csproj.GenerateResource.cache
+J:\M.G.I.U.S\final\testing\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache

@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\M.G.I.U.S\\final\\testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5A112B-1D0D-4836-A740-45E66DF91667}|testing\\testing.csproj|J:\\M.G.I.U.S\\final\\testing\\testing\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5A112B-1D0D-4836-A740-45E66DF91667}|testing\\testing.csproj|solutionrelative:testing\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5A112B-1D0D-4836-A740-45E66DF91667}|testing\\testing.csproj|j:\\m.g.i.u.s\\final\\testing\\testing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF5A112B-1D0D-4836-A740-45E66DF91667}|testing\\testing.csproj|solutionrelative:testing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "J:\\M.G.I.U.S\\final\\testing\\testing\\Form1.cs",
+              "RelativeDocumentMoniker": "testing\\Form1.cs",
+              "ToolTip": "J:\\M.G.I.U.S\\final\\testing\\testing\\Form1.cs*",
+              "RelativeToolTip": "testing\\Form1.cs*",
+              "ViewState": "AQIAAGEAAAAA15mZmZkZwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:25:37.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "J:\\M.G.I.U.S\\final\\testing\\testing\\Form1.cs",
+              "RelativeDocumentMoniker": "testing\\Form1.cs",
+              "ToolTip": "J:\\M.G.I.U.S\\final\\testing\\testing\\Form1.cs [Design]*",
+              "RelativeToolTip": "testing\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:11:20.681Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
